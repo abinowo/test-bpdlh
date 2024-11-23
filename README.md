@@ -21,3 +21,10 @@ php artisan test
 ```
 if running the test, should be run 'php artisan data:install' again
 ```
+
+## User Login
+
+```
+username: admin@test.com
+password: pass
+```
