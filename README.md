@@ -15,3 +15,9 @@
 ```
 php artisan test
 ```
+
+## Notes
+
+```
+if running the test, should be run 'php artisan data:install' again
+```
